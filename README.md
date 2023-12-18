@@ -18,3 +18,5 @@ database that supports spatial data types, like PostgreSQL (PostGIS)
 6. Optimize the queries to speed up execution time (10 marks)
 
 7. N-Optimization of queries (5 marks)
+
+Dataset is taken from https://www.naturalearthdata.com/downloads/110m-cultural-vectors/
